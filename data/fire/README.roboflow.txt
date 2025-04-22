@@ -1,27 +1,3 @@
-
-fire - v1 v1
-==============================
-
-This dataset was exported via roboflow.com on April 13, 2025 at 2:50 PM GMT
-
-Roboflow is an end-to-end computer vision platform that helps you
-* collaborate with your team on computer vision projects
-* collect & organize images
-* understand and search unstructured image data
-* annotate, and create datasets
-* export, train, and deploy computer vision models
-* use active learning to improve your dataset over time
-
-For state of the art Computer Vision training notebooks you can use with this dataset,
-visit https://github.com/roboflow/notebooks
-
-To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
-
-The dataset includes 9629 images.
-Fire are annotated in YOLO v4 PyTorch format.
-
-The following pre-processing was applied to each image:
-
-No image augmentation techniques were applied.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf4116e8ca50022d4275faf8a19dc4044aa995ff9b85ea1abaff953ebffd5052
+size 867
