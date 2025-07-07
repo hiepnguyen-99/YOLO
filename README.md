@@ -1,6 +1,6 @@
 # YOLO
 ## Project Description
-This project is a reimplementation of the YOLOv1 (You Only Look Once) object detection architecture, using MobileNetV2 as the lightweight backbone for feature extraction. The model predicts bouding boxes and class probabilities 
+This project is a reimplementation of the YOLOv1 (You Only Look Once) object detection architecture, using MobileNetV2 as the lightweight backbone for feature extraction. The model predicts bouding boxes and class probabilities (fire, smoke)
 
 It is written by **Pytorch**, a small model designed for learning and understanding object detection
 
