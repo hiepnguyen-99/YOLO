@@ -23,4 +23,4 @@ It is written by **Pytorch**, a small model designed for learning and understand
 An **Intersection over Union (IoU)** function is implemented to calculate the overlap between predicted and ground truth bounding boxes. This is a key component in evaluating the performance of object detection models.
 
 ## Prediction
-![YOLO Output](output.png)
+![YOLO Output](yolov1/output.png)
