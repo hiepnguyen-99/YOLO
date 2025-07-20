@@ -28,3 +28,13 @@ An **Intersection over Union (IoU)** function is implemented to calculate the ov
 # YOLOv8
 The project uses pretrained weights `yolov8s.pt` on the COCO dataset, then fine-tuned on our custom fire-smoke dataset. It achieves a confidence score of approximately **0.91**
 ![YOLOv8 Output](yolov8/output.png)
+## Use YOLOv8 on camera
+1. Download support library for yolo
+```
+pip install ultralytics
+```
+2. Run program
+```
+python pred_on_cam_yolov8.py
+```
+3. If you want to stop the program press ```Ctrl + C```
